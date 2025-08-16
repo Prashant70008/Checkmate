@@ -1,0 +1,43 @@
+
+.home{
+    height: 90vh;
+    background-color: #f5f7fa;
+}
+.left-section{
+    display: inline-block;
+    margin: 0 0 0 150px;
+}
+h1{
+    font-size: 60px;
+    color: #4d4d4d;
+    font-weight: 500;
+    line-height: 50px;
+}
+.left-section p{
+    color: #717171;
+    margin: 20px auto 25px;
+    font-size: 19px;
+    font-weight: 200;
+}
+button{
+    background-color: #4caf4f;
+    color: #ffff;
+    padding: 17px 45px;
+    border: none;
+    font-size: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #388b3b;
+}
+.years{
+    color: #4caf4f;
+}
+.right-section{
+    display: inline-block;
+}
+.right-section img{
+    margin-left: 450px;
+    margin-top: 140px;
+}

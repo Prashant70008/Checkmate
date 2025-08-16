@@ -1,0 +1,55 @@
+.blog{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1500px;
+    margin: auto;
+    gap: 50px;
+    padding-top: 100px;
+}
+.left-section-blog-1 img{
+    width: 52vh;  
+}
+.left-section-blog-2 .tesla{
+    width: 50vh;
+    margin-left: 20px;
+}
+.right-section-blog{
+    padding: 0 30px;
+    font-size: 35px;
+    margin: 20px 0 0px 0;
+    margin-top: -100px;
+
+}
+.right-section-blog h2 {
+    color: #4d4d4d;
+    font-size: 45px;
+    font-weight: 500;
+    margin-right: 30px;
+    margin-bottom: -70px;
+}
+.right-section-blog p{
+    display: inline-block;
+    color: #4d4d4d;
+    font-size: 20px;
+    font-weight: 200;
+    margin: 100px 50px 20px 0;
+}
+.Tim{
+    color: #4caf4f;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: -10px;
+}
+.blog-icon img{
+    width: 65px;
+    margin: 20px 10px 0 10px;
+}
+.blog-icon .meet{
+    color: #4caf4f;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 500;
+    padding: 50px;
+}

@@ -1,0 +1,65 @@
+.clients{
+    padding-top: 100px;
+}
+.client-title{
+    text-align: center;
+}
+.client-title h2{
+    font-size: 45px;
+    color: #4d4d4d;
+    font-weight: 500;
+}
+.client-title p{
+    color: #4d4d4d;
+    font-size: 19px;
+    font-weight: 200;
+    margin: 5px 0 40px 0;
+}
+.client-image{
+    display: flex;
+    justify-content: space-evenly;
+    height: 60px;
+    padding: 10px 75px 0 75px;
+}
+.community-title{
+    text-align: center;
+    margin: 150px 0 150px 0 ;
+}
+.community-title h2{
+    font-size: 45px;
+    color: #4d4d4d;
+    font-weight: 500;
+}
+.community-title p{
+    color: #4d4d4d;
+    font-size: 19px;
+    font-weight: 200;
+    margin: 5px 0 40px 0;
+}
+.services-card{
+    display: flex;
+    flex-direction: column;
+    height: 280px;
+    text-align: center;
+    width: 299px;
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 24px 32px;
+    display: inline-block;
+    margin-left: 10%;
+ 
+}
+.services-card img{
+    width: 90px;
+}
+.services-card h3{
+    font-size: 30px;
+    color: #4d4d4d;
+    margin: 15px 0 15px;
+    font-weight: 400;
+    width: 360px;
+}
+.services-card p{
+    font-size: 19px;
+    font-weight: 100;
+}
